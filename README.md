@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis & Interactive Dashboard using Tableau
 
 ## Project Overview
-This project presents an interactive Tableau dashboard built using a cleaned COVID-19 dataset. The dashboard helps visualize pandemic trends, monitor key performance indicators (KPIs), and analyze cases, recoveries, deaths, testing, and regional performance.
+This project presents an interactive Tableau dashboard built using a cleaned COVID-19 dataset. The dashboard helps visualize pandemic trends, monitor key performance indicators (KPIs), and analyze cases,recoveries, deaths, testing, and regional performance.
 
 --
 
